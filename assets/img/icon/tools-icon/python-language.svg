@@ -1,0 +1,14 @@
+<svg id="python-seeklogo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.518" height="54.235" viewBox="0 0 54.518 54.235">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.13" y1="0.12" x2="0.796" y2="0.782" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#387eb8"/>
+      <stop offset="1" stop-color="#366994"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.191" y1="0.206" x2="0.907" y2="0.884" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe052"/>
+      <stop offset="1" stop-color="#ffc331"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_22292" data-name="Path 22292" d="M27.207.072c-13.841,0-12.976,6-12.976,6l.016,6.218H27.453V14.16H9s-8.856-1-8.856,12.963,7.73,13.47,7.73,13.47h4.614V34.109s-.248-7.73,7.607-7.73h13.1s7.36.121,7.36-7.113V7.308S41.672.072,27.207.072ZM19.925,4.254a2.373,2.373,0,1,1-1.681.7,2.376,2.376,0,0,1,1.681-.7Z" transform="translate(-0.145 -0.072)" fill="url(#linear-gradient)"/>
+  <path id="Path_22293" data-name="Path 22293" d="M79.512,104.84c13.841,0,12.976-6,12.976-6l-.016-6.218H79.266V90.754H97.718s8.856,1,8.856-12.963-7.73-13.47-7.73-13.47H94.231V70.8s.248,7.73-7.607,7.73h-13.1s-7.36-.121-7.36,7.113V97.6s-1.117,7.236,13.346,7.236Zm7.283-4.181a2.373,2.373,0,1,1,1.681-.7,2.376,2.376,0,0,1-1.681.7Z" transform="translate(-52.056 -50.605)" fill="url(#linear-gradient-2)"/>
+</svg>
